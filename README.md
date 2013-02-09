@@ -30,10 +30,11 @@ COPYRIGHT
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  
- Suzuki Project 2012 Group Member:
-   Ryo Nakayama <ne210225@senshu-u.jp>
-   Tomoki Ikeda <ne220167@senshu-u.jp>
-   Jumpei Yamamoto <ne220061@senshu-u.jp>
-   Kei Tunoda <ne220106@senshu-u.jp>
-   Hironobu SUZUKI <hironobu@senshu-u.jp>
+Suzuki Project 2012 Group Member
+=================================
 
+* Ryo Nakayama <ne210225@senshu-u.jp>
+* Tomoki Ikeda <ne220167@senshu-u.jp>
+* Jumpei Yamamoto <ne220061@senshu-u.jp>
+* Kei Tunoda <ne220106@senshu-u.jp>
+* Hironobu SUZUKI <hironobu@senshu-u.jp>
